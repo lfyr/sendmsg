@@ -1,5 +1,5 @@
 <?php
-namespace Wcy\SendMsg;
+namespace Lfyr\SendMsg;
 date_default_timezone_set("GMT"); 
 class Sms
 {

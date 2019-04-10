@@ -1,5 +1,5 @@
 {
-    "name": "wcy/sendmsg",
+    "name": "lfyr/sendmsg",
     "authors": [
         {
             "name": "lfyr",
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wcy\\SendMsg\\": "src"
+            "Lfyr\\SendMsg\\": "src"
         }
     }
 }
